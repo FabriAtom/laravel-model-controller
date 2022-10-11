@@ -1,0 +1,25 @@
+.container {
+  max-width: 100%;
+  max-height: 1000vh;
+  text-align: center;
+}
+
+body {
+  background-color: blueviolet;
+}
+
+.flex {
+  display: flex;
+}
+
+.card {
+  border: 2px solid black;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 139, 0.7);
+}
+
+h1 {
+  text-align: center;
+  background-color: burlywood;
+}
+
